@@ -1,0 +1,44 @@
+#apDiv1 {
+	position:relative;
+	width:154px;
+	height:62px;
+	z-index:2;
+	left: 550px;
+	margin-right:auto;
+	margin-left:auto;
+	top: -100px;
+}
+#apDiv2 {
+	position:relative;
+	width:1364px;
+	height:115px;
+	z-index:1;
+	left: 1px;
+	top: -1px;
+	background-color:#0F0;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+
+#apDiv3 {
+	position:absolute;
+	width:47px;
+	height:57px;
+	z-index:3;
+	left: 26px;
+	top: 148px;
+}
+.container{
+	position:absolute;
+	width:580px;
+	height:197px;
+	z-index:4;
+	left: 399px;
+	top: 304px;
+	margin-right:auto;
+	margin-left:auto;
+}
+#dec{
+	color:#FFF;
+}
